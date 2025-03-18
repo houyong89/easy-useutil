@@ -1,0 +1,19 @@
+{
+  "name": "easy-useutil",
+  "version": "1.0.0",
+  "description": "a simple and easy-to-use functional plugin tools",
+  "keywords": ["utils", "tools", "format"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/houyong89/easy-useutil"
+  },
+  "main": "index.js", 
+  "homepage": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
